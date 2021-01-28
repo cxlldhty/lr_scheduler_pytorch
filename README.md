@@ -1,2 +1,2 @@
 # lr_scheduler_pytorch
-Visualize the lr_scheduler in Pytorch
+This notebook plots the learning rate curve using different learning rate schedulers implemented in pytorch.
